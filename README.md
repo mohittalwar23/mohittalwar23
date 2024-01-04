@@ -1,9 +1,8 @@
 <h1 align="center">Hi , I'm Mohit Talwar</h1>
 <h3 align="center">A student at IIIT Nagpur </h3>
 
-- I’m currently working on **Spotipie**
 
-- I’m currently learning **Flask , API's**
+- I’m currently learning **Flask , FASTAPI , API's**
 
 - I’m looking to collaborate on **CamVisioTech**
 
