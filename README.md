@@ -6,9 +6,9 @@
 
 - I’m currently working on **Some Android Projects**
 
-- I’m currently learning **Flask , FASTAPI , API's**
+- I am interested in **Flask , FASTAPI , API's** and python's backend
 
-- I’m looking to collaborate on **CamVisioTech**
+- I’m looking to collaborate on **CamVisioTech** on backend/android/ComputerVision
 
 - All of my projects are available at [https://github.com/mohittalwar23](https://github.com/mohittalwar23)
 
