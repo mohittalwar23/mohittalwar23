@@ -18,12 +18,12 @@
 
 ## Github Statics :
 
-<a href="https://github.com/uchitnm">
+<a href="https://github.com/mohittalwar23">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittalwar23&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/uchitnm">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohittalwar23&show_icons=true&theme=tokyonight&line_height=27" alt="uchitnm github stats"/>
+<a href="https://github.com/mohittalwar23">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohittalwar23&show_icons=true&theme=tokyonight&line_height=27" alt="mohit's github stats"/>
 </a>
 
 
