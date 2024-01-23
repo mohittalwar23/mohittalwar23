@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=courier+new+&weight=450&size=30&duration=1000&pause=100&repeat=false&width=450&height=90&lines=Hello%2C++I%E2%80%99m+%40uchitnm" alt="Typing SVG" /></a> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" align="left" >
+
 <h1 align="center">Hi 👋, I'm Mohit Talwar</h1>
 <h3 align="center">A python/android developer with interest in IOT and ML/CV</h3>
 
@@ -13,3 +15,16 @@
 - All of my projects are available at [https://github.com/mohittalwar23](https://github.com/mohittalwar23)
 
 - Reach me at **bt22eci036@iiitn.ac.in**
+
+
+## Github Statics :
+
+<a href="https://github.com/uchitnm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchitnm&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/uchitnm">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=uchitnm&show_icons=true&theme=tokyonight&line_height=27" alt="uchitnm github stats"/>
+</a>
+
+
