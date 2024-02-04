@@ -35,8 +35,10 @@
 <a href="https://github.com/mohittalwar23">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohittalwar23&show_icons=true&theme=tokyonight&line_height=27" alt="mohit's github stats"/>
 </a>
+<br>
 
 <h2 align="left">Reach out at:</h2>
+<br>
 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bt22eci036@iiitn.ac.in)](mailto:bt22eci036@iiitn.ac.in)
 [![Twitter Badge](http://img.shields.io/badge/-@mohittalwar23-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mohittalwar23)](https://twitter.com/mohittalwar23)
