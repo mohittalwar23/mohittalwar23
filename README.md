@@ -26,14 +26,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohittalwar23&show_icons=true&theme=tokyonight&line_height=27" alt="mohit's github stats"/>
 </a>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Indrakant_Dana-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/indrakant-dana/)](https://www.linkedin.com/in/mohittalwar23/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bt22eci036@iiitn.ac.in)](mailto:bt22eci036@iiitn.ac.in)
 [![Twitter Badge](http://img.shields.io/badge/-@mohittalwar23-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/its_ikD)](https://twitter.com/mohittalwar23)
 
 
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohittalwar23.mohittalwar23)
 
 
