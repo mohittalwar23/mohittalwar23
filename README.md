@@ -29,12 +29,14 @@
 <h2 align="left">Github Stats:</h2>
 
 <a href="https://github.com/mohittalwar23">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohittalwar23&show_icons=true&theme=tokyonight&line_height=27" alt="mohit's github stats"/>
+</a>
+
+<a href="https://github.com/mohittalwar23">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittalwar23&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/mohittalwar23">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohittalwar23&show_icons=true&theme=tokyonight&line_height=27" alt="mohit's github stats"/>
-</a>
+
 <br/>
 
 <h2 align="left">Reach out at:</h2>
