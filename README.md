@@ -25,7 +25,6 @@
 <code><img width="80" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
 <code><img width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## Github Statics :
 
@@ -38,7 +37,7 @@
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bt22eci036@iiitn.ac.in)](mailto:bt22eci036@iiitn.ac.in)
-[![Twitter Badge](http://img.shields.io/badge/-@mohittalwar23-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/its_ikD)](https://twitter.com/mohittalwar23)
+[![Twitter Badge](http://img.shields.io/badge/-@mohittalwar23-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mohittalwar23)](https://twitter.com/mohittalwar23)
 
 
 
