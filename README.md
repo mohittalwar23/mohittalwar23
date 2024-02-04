@@ -16,7 +16,7 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img width="40" src="raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img width="60" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img width="70" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
