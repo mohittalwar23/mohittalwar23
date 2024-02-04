@@ -37,13 +37,13 @@
   </a>
 
 
-<br/>
-
 <h2 align="left">Reach out at:</h2>
 <br/>
 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bt22eci036@iiitn.ac.in)](mailto:bt22eci036@iiitn.ac.in)
-[![Twitter Badge](http://img.shields.io/badge/-@mohittalwar23-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mohittalwar23)](https://twitter.com/mohittalwar23)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bt22eci036@iiitn.ac.in&label=Contact%20me%20via%20Email)](mailto:bt22eci036@iiitn.ac.in)
+
+[![Twitter Badge](http://img.shields.io/badge/-@mohittalwar23-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/mohittalwar23&label=Follow%20me%20on%20Twitter)](https://twitter.com/mohittalwar23)
+
 
 
 
