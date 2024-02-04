@@ -13,8 +13,19 @@
 - Reach me at **bt22eci036@iiitn.ac.in**
 
 <h2 align="left">Languages and Tools:</h2>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="pytorch" width="70" height="40"/> </a> <a href="https://developers.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="seaborn" width="80" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img width="40" src="raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img width="60" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img width="70" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+<br/>
+<code><img width="80" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img width="80" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
+<code><img width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+<code><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## Github Statics :
 
@@ -29,21 +40,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bt22eci036@iiitn.ac.in)](mailto:bt22eci036@iiitn.ac.in)
 [![Twitter Badge](http://img.shields.io/badge/-@mohittalwar23-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/its_ikD)](https://twitter.com/mohittalwar23)
 
-### 🛠 &nbsp;Languages and Tools:
 
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img width="40" src="raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img width="60" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img width="70" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-<br/>
-<code><img width="80" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="80" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
-<code><img width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
