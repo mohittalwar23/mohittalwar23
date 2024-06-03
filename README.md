@@ -25,16 +25,6 @@
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
 <code><img width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 
-<h2 align="left">Github Stats:</h2>
-
-<a href="https://github.com/mohittalwar23">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohittalwar23&show_icons=true&theme=tokyonight&line_height=27" alt="mohit's github stats"/>
-</a>
-
-<a href="https://github.com/mohittalwar23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittalwar23&theme=tokyonight" />
-  </a>
-
 
 <h2 align="left">Reach out at:</h2>
 
