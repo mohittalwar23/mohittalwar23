@@ -10,21 +10,6 @@
 
 - All of my projects are available at [https://github.com/mohittalwar23](https://github.com/mohittalwar23)
 
-- Reach me at **bt22eci036@iiitn.ac.in**
-
-<h2 align="left">Languages and Tools:</h2>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img width="60" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
-<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img width="80" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="70" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-<code><img width="80" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
-<code><img width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-
 
 <h2 align="left">Reach out at:</h2>
 
