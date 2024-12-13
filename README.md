@@ -11,13 +11,6 @@
 </h1>
 
 
-<h2>🐍 Contribution Snake</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <h2 align="left">Reach out at:</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bt22eci036@iiitn.ac.in&label=Contact%20me%20via%20Email)](mailto:bt22eci036@iiitn.ac.in)
