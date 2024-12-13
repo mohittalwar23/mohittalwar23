@@ -2,6 +2,12 @@
 
 - I’m currently making projects in IOT and Robotics.
 - I am interested in **Embedded systems/Hardware/Firmware related roles** and IOT
+<!-- Typing SVG -->
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=I+work+in+Embedded+Systems+and+IoT;ROS+and+it's+projects+are+cool;VLSI+ECE;" alt="Typing SVG" />
+  </a>
+</h1>
 
 
 <h2 align="left">Reach out at:</h2>
