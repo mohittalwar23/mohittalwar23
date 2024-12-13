@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello I am Mohit!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
+<!-- Typing SVG -->
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Jjateen!;I+specialize+in+Embedded+Systems+and+IoT;Robotics;VLSI+Engineering;AI+%2F+ML" alt="Typing SVG" />
+  </a>
+</h1>
+
 <!-- Typing SVG -->
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
