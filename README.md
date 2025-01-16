@@ -10,6 +10,10 @@
   </a>
 </h1>
 
+<h2>🐍 Contribution Snake</h2>
+<div align = "center">
+<img src="https://github.com/mohittalwar23/mohittalwar23/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 <h1 align="left">Reach out at:</h1>
 
