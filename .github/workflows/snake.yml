@@ -1,66 +1,85 @@
 name: GitHub Snake Game
 
+
 on:
+
+  # Schedule the workflow to run daily at midnight UTC
+
   schedule:
+
     - cron: "0 0 * * *"
+
+
+  # Allow manual triggering of the workflow
+
   workflow_dispatch:
+
+
+  # Trigger the workflow on pushes to the main branch
+
   push:
+
     branches:
-     The failure in your workflow is due to a missing deploy key - main
 
- or tokens. Here's what you need to do to resolve thisjobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name issue:
-
-1. **Create a Personal Access Token (PAT)**:
-   - Go to [GitHub Settings](https://github.com/settings/tokens) and generate a new token with the `repo` scope.
-
-2. **Add the PAT: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner as a Secret**:
-   - Go to your repository's settings -> Secrets and variables -> Actions -> New repository secret.
- }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette   - Name the secret `PERSONAL_ACCESS_TOKEN` and paste the token value.
-
-3. **Update the Workflow**:
-   - Modify the `.github/workflows=github-dark
-            dist/ocean.gif?color_snake/snake.yml` to use this new secret:
-
-```yaml
-name: GitHub Snake Game
-
-=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKENon:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch }}
-
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.P:
-  push:
-    branches:
       - main
 
+
 jobs:
+
   generate:
+
     runs-on: ubuntu-latest
+
     timeout-minutes: 10
 
+
     steps:
+
+      # Step 1: Checkout the repository
+
       - name: Checkout Repository
-        uses:ERSONAL_ACCESS_TOKEN }}
+
+        uses: actions/checkout@v3
+
+
+      # Step 2: Generate the snake animations
+
+      - name: Generate GitHub Contributions Snake Animations
+
+        uses: Platane/snk@v3
+
+        with:
+
+          # GitHub username to generate the animation for
+
+          github_user_name: ${{ github.repository_owner }}
+
+
+          # Define the output files and their configurations
+
+          outputs: |
+
+            dist/github-snake.svg
+
+            dist/github-snake-dark.svg?palette=github-dark
+
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+      # Step 3: Deploy the generated files to the 'output' branch
+
+      - name: Deploy to Output Branch
+
+        uses: peaceiris/actions-gh-pages@v3
+
+        with:
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
           publish_dir: ./dist
+
           publish_branch: output
