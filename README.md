@@ -3,12 +3,6 @@
 </p>
 
 
-<!-- Typing SVG -->
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=I+work+in+Embedded+Systems+and+IoT;Digital +Electronics+is+cool+:);" alt="Typing SVG" />
-  </a>
-</h1>
 
 
 <h1 align="left">Reach out at:</h1>
