@@ -5,7 +5,7 @@
 <h2 align="center">Embedded Systems · Edge AI · Open Source</h2>
 
 <p align="center">
-  Final-year B.Tech student at IIIT Nagpur · Embodied AI Intern at OLA Electric · GSoC 2026 Applicant (Zephyr Project)
+  Final-year B.Tech student at IIIT Nagpur
 </p>
 
 <p align="center">
